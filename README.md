@@ -9,5 +9,5 @@
 - 📫 Meios de contatos:
 - E-mail: lucas.skissel@gmail.com
 - LinkedIn: https://www.linkedin.com/in/lucas-kissel-aa061a118/
-- ME: Tenho 23 anos, sou papai de um grande menino! sou formado em Formação em Excel, Técnico em Informática e atualmente estou graduando Análise e Desenvolvimento de Sistemas, gosto de sempre estar me atualizando em relação a novas técnologias, atualmente trabalho mais com banco de dados SQL e com o Sistema RM da TOTVS.
+- ME: Tenho 24 anos, sou papai de um grande menino! tenho cursos concluídos em Formação em Excel, Técnico em Informática e atualmente estou graduando Análise e Desenvolvimento de Sistemas, gosto de sempre estar me atualizando em relação a novas técnologias.
 -->
